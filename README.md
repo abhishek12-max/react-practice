@@ -1,2 +1,2 @@
-# react-todo-app
-Simple Todo CRUD App using React
+# react-learning
+basic concept of react
